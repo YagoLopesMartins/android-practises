@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Ocean</string>
+    <string name="hello_world">Olá, Mundo!</string>
+    <string name="digite_um_nome_valido">Digite um nome válido</string>
+</resources>

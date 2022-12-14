@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Ocean</string>
+    <string name="hello_world">hello World</string>
+    <string name="digite_um_nome_valido">Digite um nome válido</string>
+</resources>
